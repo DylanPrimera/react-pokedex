@@ -1,0 +1,17 @@
+.header {
+    display: grid;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 10px;
+    place-content: center;
+    background: var(--bg-gradient);
+}
+
+.input-search {
+    background-color: rgba(121,121,121,0.257);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    border: none;
+    width: 80vw;
+}
